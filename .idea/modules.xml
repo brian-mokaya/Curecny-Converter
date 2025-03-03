@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Curecny-Converter.iml" filepath="$PROJECT_DIR$/.idea/Curecny-Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curecny-Converter.iml" filepath="$PROJECT_DIR$/Curecny-Converter.iml" />
     </modules>
   </component>
 </project>
